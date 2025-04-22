@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Tokentrackerz.com/sitemap.xml 
