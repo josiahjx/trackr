@@ -8,31 +8,31 @@ const TrustTestimonials = () => {
     {
       name: 'John D.',
       role: 'Bitcoin Investor',
-      content: 'CryptoGuard helped me recover my lost Bitcoin wallet. Their team was professional and efficient throughout the entire process.',
+      content: 'TokenTrackerz helped me recover my lost Bitcoin wallet. Their team was professional and efficient throughout the entire process.',
       rating: 5
     },
     {
       name: 'Sarah M.',
       role: 'Crypto Trader',
-      content: 'I thought my Ethereum was gone forever, but CryptoGuard proved me wrong. Their expertise in blockchain recovery is unmatched.',
+      content: 'I thought my Ethereum was gone forever, but TokenTrackerz proved me wrong. Their expertise in blockchain recovery is unmatched.',
       rating: 5
     },
     {
       name: 'Michael R.',
       role: 'Business Owner',
-      content: 'The team at CryptoGuard went above and beyond to help me recover my business funds. Highly recommended!',
+      content: 'The team at TokenTrackerz went above and beyond to help me recover my business funds. Highly recommended!',
       rating: 4
     },
     {
       name: 'Emily T.',
       role: 'Crypto Enthusiast',
-      content: 'Fast, reliable, and trustworthy. CryptoGuard helped me recover my lost assets when others couldn\'t.',
+      content: 'Fast, reliable, and trustworthy. TokenTrackerz helped me recover my lost assets when others couldn\'t.',
       rating: 5
     },
     {
       name: 'David L.',
       role: 'Blockchain Developer',
-      content: 'As someone who understands blockchain technology, I can attest to CryptoGuard\'s technical expertise.',
+      content: 'As someone who understands blockchain technology, I can attest to TokenTrackerz technical expertise.',
       rating: 4
     }
   ];
