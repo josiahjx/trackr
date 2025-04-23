@@ -26,7 +26,7 @@ const FAQ = () => {
     },
     {
       question: 'What if you can\'t recover my assets?',
-      answer: 'We operate on a "No Recovery, No Fee" basis. If we\'re unable to recover your assets, you won\'t be charged for our services. We\'ll be transparent about the chances of recovery from the start.'
+      answer: 'We operate on a "No Recovery, No Fee" basis. If we\'re unable to recover your assets, you won\'t be charged for comission fee. We\'ll be transparent about the chances of recovery from the start.'
     }
   ];
 
