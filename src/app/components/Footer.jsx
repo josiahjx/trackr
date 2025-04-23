@@ -10,7 +10,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center mb-4">
               <FaShieldAlt className="text-blue-400 text-2xl mr-2" />
-              <span className="text-white text-xl font-bold">CryptoGuard</span>
+              <span className="text-white text-xl font-bold">TokenTrackerz</span>
             </div>
             <p className="text-gray-400 mb-4">
               Professional cryptocurrency recovery services with a proven track record of success.
